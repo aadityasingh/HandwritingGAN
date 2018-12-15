@@ -1,0 +1,5 @@
+*MNIST*
+samples/
+matlab/
+temp/
+.DS_Store
